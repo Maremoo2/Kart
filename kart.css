@@ -1,0 +1,16 @@
+#kart {
+    background-image: url("kart.gif");
+    background-position: center;
+    background-size: contain;
+    width: 599px;
+    height: 735px;
+    position: relative;
+}
+
+#merker {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
